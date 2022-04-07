@@ -1,0 +1,30 @@
+body {
+    background-color: #151515;
+    color: white;
+}
+
+.navbar > nav > ul {
+    display: flex;
+    justify-content: right;
+    justify-content: space-between;
+}
+
+.navbar > nav > ul > li {
+   list-style: none;
+   
+}
+
+
+/* 
+CANVAS */
+
+.canvas{
+    width: 100%;
+    /* min-height: 130vw; */
+    min-height: 50vw;
+    /* position: absolute; */
+    /* top: 0%;
+    bottom: 0%; */
+    background-color: white;
+
+}
